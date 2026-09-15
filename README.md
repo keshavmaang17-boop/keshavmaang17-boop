@@ -37,7 +37,7 @@
 
 ### *CONTACT ME*
 <div align="center">
-  <a href="[https://linkedin.com/in/mayconng](https://www.linkedin.com/in/keshav-singhal-3a2587351/)">
+  <a href="[https://linkedin.com/in/mayconng](www.linkedin.com/in/keshav-singhal-3a2587351)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:keshavmaang17@gmail.com">
